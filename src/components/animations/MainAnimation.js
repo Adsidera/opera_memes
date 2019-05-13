@@ -1,5 +1,5 @@
 import React from "react"
-import illustration from "../../images/disegno.svg"
+import illustration from "../../images/meme_caption.svg"
 
 const MainAnimation = () => (
   <div className="meme-div">
